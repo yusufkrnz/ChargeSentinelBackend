@@ -1,2 +1,3 @@
 # ChargeSentinelBackend
-<img width="2092" height="1280" alt="image" src="https://github.com/user-attachments/assets/b5aadbb7-69ae-4d0e-a06c-b5f7f8a96ac9" />
+<img width="2118" height="1336" alt="image" src="https://github.com/user-attachments/assets/a257b6c2-5ccf-4c27-818f-c8c6b5a2cb7b" />
+
